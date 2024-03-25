@@ -1,0 +1,21 @@
+* {
+    background-color: #87a878;
+    padding: 0;
+}
+
+.st-emotion-cache-7ym5gk  {
+    background-color: #dbf9b8;
+}
+
+.st-emotion-cache-18ni7ap {
+    background-color: #87a878;
+}
+
+button[kind="primary"] {
+    background-color: #87a878;
+    border-color: black;
+}
+
+button[kind="primary"]:hover {
+    background-color: #87a878;
+}
